@@ -67,3 +67,5 @@ class UserInterface:
             print(forecast)
 
 
+user_interface = UserInterface()
+user_interface.main()
