@@ -1,0 +1,1 @@
+i'm at a loss as far as getting this thing to run... I guess i'm just drawing a blank... Been at it for a while, i was hoping you could give me a hint or point me in the right direction to get this one finished so i can move on
